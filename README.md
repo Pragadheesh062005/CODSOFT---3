@@ -42,14 +42,10 @@ This design ensures that emails are:
 
 ## 📸 Preview
 
+<img width="1908" height="1030" alt="Screenshot 2025-10-20 172745" src="https://github.com/user-attachments/assets/817a516f-c1d1-4999-978d-c116ab7d6a43" />
 
 
-```
-📷 <img width="381" height="903" alt="Screenshot 2025-10-20 172723" src="https://github.com/user-attachments/assets/755241e5-42ec-468c-9051-09067786cc3e" />
 
-```
-
----
 
 ## 🚀 How to Use
 
