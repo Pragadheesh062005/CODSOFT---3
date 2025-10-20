@@ -45,7 +45,7 @@ This design ensures that emails are:
 
 
 ```
-📷 <img width="381" height="903" alt="Screenshot 2025-10-20 172723" src="https://github.com/user-attachments/assets/803a3891-ba30-411d-ac3e-3130cfcf477e" />
+📷 <img width="381" height="903" alt="Screenshot 2025-10-20 172723" src="https://github.com/user-attachments/assets/755241e5-42ec-468c-9051-09067786cc3e" />
 
 ```
 
