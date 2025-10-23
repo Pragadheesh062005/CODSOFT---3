@@ -1,3 +1,5 @@
+#CODSOFT--2
+
 # ✉️ Email Template UI/UX Design
 
 An **Email Template UI/UX Project** designed in **Figma**.
